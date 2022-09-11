@@ -1,0 +1,2 @@
+# magento_stock_notifier
+magento_stock_notifier
